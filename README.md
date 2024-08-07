@@ -1,1 +1,1 @@
-# https-glaptop-price-predictor-regression-project
+# laptop-price-predictor-regression-project
